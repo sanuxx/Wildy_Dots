@@ -39,3 +39,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# kept local only: supplier receipts hidden on the Foundation page, and a stray file
+/public/img/foundation/house-01/1.webp
+/public/img/foundation/house-02/1.webp
+/public/img/foundation/house-02/3.webp
+/public/img/foundation/house-03/1.webp
+/public/img/foundation/house-05/1.webp
+/public/img/foundation/house-repair-01/1.webp
+/public/img/foundation/house-repair-02/4.webp
+/public/img/foundation/house-repair-03/4.webp
+/public/img/foundation/house-repair-04/4.webp
+/c6e56b37b1ee3c6afa12f95912a11668.jpg
+/tsconfig.tsbuildinfo
